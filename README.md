@@ -51,12 +51,12 @@ This project involves designing and developing a responsive website for The Coff
 
 ## Changelog
 
-### Part 1 Initial Submission (2024-10-23)
+### Part 1 Initial Submission (2025-08-26)
 - Created basic HTML structure for all 6 pages
 - Added navigation menu to all pages
 - Added placeholder content to menu and about pages
 
-### Part 1 Corrections (2025-03-20)
+### Part 1 Corrections (2025-10-01)
 - Fixed README.md structure with comprehensive details
 - Added proper semantic HTML elements (header, nav, main, section, footer)
 - Improved content quality and relevance across all pages
@@ -65,7 +65,7 @@ This project involves designing and developing a responsive website for The Coff
 - Updated references with proper Harvard formatting
 - Fixed HTML validation issues and improved code comments
 
-### Part 2 Implementation (2025-03-20)
+### Part 2 Implementation (2025-10-01)
 - Created external CSS stylesheet (style.css)
 - Implemented responsive design with media queries
 - Added desktop styling for all pages
@@ -89,3 +89,4 @@ MDN Web Docs. (2025). HTML, CSS and JavaScript Reference. [Online] Available at:
 Pexels. (2024). Stock Photography. [Online] Available at: https://www.pexels.com/ (Accessed: 20 March 2025).
 
 Unsplash. (2024). Free High-Resolution Photos. [Online] Available at: https://unsplash.com/ (Accessed: 20 March 2025).
+
